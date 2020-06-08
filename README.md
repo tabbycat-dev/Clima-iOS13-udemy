@@ -1,5 +1,4 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![](clima-weather.gif)</br>
 
 #  Clima
 
